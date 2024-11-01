@@ -1,0 +1,28 @@
+.options-block {
+    background-color: #e2eeef;
+    border: 1px solid #ccd9da;
+    padding: 0 10px;
+    margin-bottom: 15px;
+}    
+.options-block-inner {
+    display: none;
+}
+.options-block h4 {
+  margin: 0;
+  padding: 10px 0;
+  cursor: pointer;
+  color: #809c9e;
+  font-weight: 400;
+}
+.options-block h4 span {
+    font-size: 18px;
+      color: #809c9e;
+      float: right;
+      padding: 0 2px;
+      font-weight: 300;
+      cursor: pointer;
+}
+.options-block input,
+.options-block .wp-color-result {
+  border-color: #ccd9da;
+}
